@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-C, Python, GML, GML DnD
+Python, GML, GML DnD
