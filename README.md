@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Learning: Python, Django, Flask, MongoDB, Boostrap 5, HTML, CSS, Discord.py
+Learning: Python, Django, Flask, MongoDB, Boostrap 5, HTML, CSS, GIT, Discord.py
 
 Basic Level: GML, GML DnD
 
