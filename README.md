@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Learning: Python, Boostrap 5, HTML, CSS, GIT, JS-Frontend, Nextcord, openai-py
+Learning: Python, Boostrap 5, HTML, CSS, GIT, Nextcord, openai-py
 
 Basic Level: GML, GML DnD
 
