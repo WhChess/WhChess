@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Learning: PHP, Python, Boostrap 5, HTML, CSS, GIT, Nextcord, openai-py
+Learning: PHP, Python, GML
 
 Basic Level: GML, GML DnD
 
-Back-End Developer and Game Coder
+Back-End Developer
 
 - Simple game project made with GameMaker Studio: https://github.com/WhChess/Electrify-Shooter
 - Chess opening book for chess engines: https://github.com/WhChess/CheckMateX
