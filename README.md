@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am from Turkey 🇹🇷. I am a student.
+I am from Turkiye. I am a student.
 
 Learning: Laravel, Back-End Development.
 
