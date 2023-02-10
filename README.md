@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-Learning: PHP, Python, GML
+Learning: Laravel, Back-End Development.
 
-Basic Level: GML, GML DnD
 
-Back-End Developer
+Projects:
 
 - Simple game project made with GameMaker Studio: https://github.com/WhChess/Electrify-Shooter
 - Chess opening book for chess engines: https://github.com/WhChess/CheckMateX
