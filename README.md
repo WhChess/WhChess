@@ -14,3 +14,8 @@ Projects:
 
 - Simple game project made with GameMaker Studio: https://github.com/WhChess/Electrify-Shooter
 - Chess opening book for chess engines: https://github.com/WhChess/CheckMateX
+
+Temp-Links:
+
+Tarih Sunumu: https://1drv.ms/p/s!ArmQkwfAClGbgcJJTq3MTN9MPm4C2A?e=PnRCuC
+Repository içinde dosya da bulunmakta.
