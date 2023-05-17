@@ -17,5 +17,4 @@ Projects:
 
 Temp-Links:
 
-Tarih Sunumu: https://1drv.ms/p/s!ArmQkwfAClGbgcJJTq3MTN9MPm4C2A?e=PnRCuC
-Repository içinde dosya da bulunmakta.
+-
