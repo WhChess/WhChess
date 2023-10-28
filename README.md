@@ -11,7 +11,7 @@
 
 Projects:
 
-- A Simple game project made with GameMaker Studio: https://github.com/WhChess/Electrify-Shooter
-- A Chess opening book for chess engines: https://github.com/WhChess/CheckMateX
+- A simple game project made with GameMaker Studio: https://github.com/WhChess/Electrify-Shooter
+- Chess opening book for chess engines: https://github.com/WhChess/CheckMateX
 - A Lichess-Bot using Komodo-Dragon Chess Engine: https://github.com/WhChess/AquaFlame
 
