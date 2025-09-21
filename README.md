@@ -39,12 +39,12 @@ I'm Efe Anık, a Computer Science Student at Bilkent University.
 ### 🌱 Projects:
 - A simple 2D shooter game built with GameMaker Studio: https://github.com/WhChess/Electrify-Shooter
 - A custom chess opening book designed for use with chess engines: https://github.com/WhChess/CheckMateX
-- A Lichess bot powered by the "**Dragon by Komodo**" chess engine: https://github.com/WhChess/AquaFlame
+- A Lichess-bot powered by the "**Dragon by Komodo**" chess engine: https://github.com/WhChess/AquaFlame
 
 ---
 
 ### 🌐 Socials:
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:efe1anik@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/efe-anık)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/efe-anık)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/WhChess)
 [<img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white">](https://www.wechat.com/)
