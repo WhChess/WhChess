@@ -3,7 +3,7 @@
 **WhChess/WhChess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Efe Anık, a Computer Science Student at Bilkent University.
+I'm Efe Anık, a freshman Computer Science Student at Bilkent University.
 
 - 🧬 I'm interested in bioinformatics.
 - 🖥️ I'm working with **Java, Python and R**.
@@ -48,3 +48,5 @@ I'm Efe Anık, a Computer Science Student at Bilkent University.
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/efe-anık)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/WhChess)
 [<img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white">](https://www.wechat.com/)
+
+---
