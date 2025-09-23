@@ -9,7 +9,7 @@ I'm Efe Anık, a freshman Computer Science Student at Bilkent University.
 - 🖥️ I'm working with **Java, Python and R**.
 - 📚 I'm currently studying topics related to artificial intelligence, machine learning, and statistical algorithms.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhChess&layout=compact&theme=gruvbox)](https://github.com/WhChess)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhChess&layout=compact&langs_count=5&theme=gruvbox)](https://github.com/WhChess)
 
 ---
 
